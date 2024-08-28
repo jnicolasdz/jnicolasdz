@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+# Student at the University Francisco Jose de Caldas 🎓
+I'm interesting on 👀:
+- 📊📈 Data science
+- 💻 📶 Web development
+- 🐧🖥️ Linux development
+- 🔐🕵️‍♂️ Cybersecurity
 <!--
 **jnicolasdz/jnicolasdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
