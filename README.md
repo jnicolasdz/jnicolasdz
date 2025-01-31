@@ -5,6 +5,11 @@ I'm interesting on 👀:
 - 💻 📶 Web development
 - 🐧🖥️ Linux development
 - 🔐🕵️‍♂️ Cybersecurity
+
+# Languagues I'm working on :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astroobot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
+</div>
 <!--
 **jnicolasdz/jnicolasdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
