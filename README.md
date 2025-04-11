@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Nicolás Diaz</h1>
-
 <h2 align="center">Student at the Universidad Francisco Jose de Caldas 🎓 from <img width="24" height="24" src="https://img.icons8.com/fluency/48/colombia-circular.png"/> <b>Bogota, Colombia</b></h2>
-
-<h3 align="center">Connect with me:</h3>
-
-
+<h3 align="center"> <a href="mailto:nicolas.diaz.salamanca.dev@gmail.com">Connect with me</a> </h3>
 <h3 align="left">I code with : </h3>
 <p align="center">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
